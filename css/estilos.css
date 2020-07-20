@@ -1,7 +1,19 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
 body {
     padding: 1em;
 }
 .section {
     background-color: pink;
+    padding: 1em;
+}
 
+.section h1 {
+    font-size: 20px;
+}
+
+.footer {
+    width: 100%;
+    box-shadow: 7px 5px 5px 0px rgba(0,0,0,0.75);
 }
