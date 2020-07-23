@@ -1,5 +1,15 @@
 Este es el comienzo de mi primer archivo
 Aqui va la segunda linea de mi primer archivo
+<<<<<<< HEAD
+Tercera linea
+hola 
 Tercera lineaaaaa
+<<<<<<< HEAD
 Cuarta linea 
 Quinta lineaa
+=======
+=======
+Tercera lineaaaaa
+Cuarta linea 
+>>>>>>> d9cd9cd5ec3f35a683b73b197cb59fceccde5927
+>>>>>>> 38b857f8e1611e35ca0c0f92261acd1ab9d20c1a
